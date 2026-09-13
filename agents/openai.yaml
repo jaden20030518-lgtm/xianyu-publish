@@ -1,0 +1,4 @@
+interface:
+  display_name: "闲鱼发布助手"
+  short_description: "复用电脑登录状态，查同款券价、制作水印封面并发布或编辑闲鱼商品"
+  default_prompt: "用 $xianyu-publish 帮我查询同条件商品行情，准备带水印封面和详情，并按我的要求发布到闲鱼。"
